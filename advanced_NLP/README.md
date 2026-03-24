@@ -12,7 +12,7 @@ This folder contains projects focusing on **Retrieval-Augmented Generation (RAG)
 | **Summer Project** | An optimized RAG extension focusing on **Vaccination** research papers. | [![Colab](https://img.shields.io/badge/Colab-Open%20Notebook-orange?logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1OdmyClWAgMCMVcbgims8fg30qR8sqn-O#scrollTo=550764e7) |
 ---
 
-### Resources for the projects
+### Useful Links
 
 | Resource | Link |
 | :--- | :--- |
